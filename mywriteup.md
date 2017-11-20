@@ -44,6 +44,9 @@ Use above steps to output display.
 ![Display](./images/outdisplay.png)
 
 ### Pipeline
+
+The code for pipeline is contained in 14, 15.
+
 The final video result: challenge_result.mp4
 
 ### Discussion
